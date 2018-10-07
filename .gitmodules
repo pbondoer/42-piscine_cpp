@@ -1,0 +1,8 @@
+[submodule "rush00"]
+	path = rush00
+	url = https://github.com/pbondoer/42-cpp-rush00.git
+	branch = master
+[submodule "rush01"]
+	path = rush01
+	url = https://github.com/pbondoer/42-cpp-rush01.git
+	branch = master
